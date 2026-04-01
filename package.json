@@ -1,0 +1,12 @@
+{
+  "name": "olimpiadas-email-api",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "resend": "^4.0.0"
+  },
+  "devDependencies": {
+    "@vercel/node": "^5.0.0",
+    "typescript": "^5.0.0"
+  }
+}

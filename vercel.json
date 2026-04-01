@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/enviar.ts": {
+      "maxDuration": 10
+    }
+  }
+}
